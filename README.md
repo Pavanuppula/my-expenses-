@@ -36,15 +36,7 @@ The Mini Expense Tracker application allows users to authenticate securely, mana
   - **Add/Edit Expense:** Simple form for creating or editing expenses
   - **Delete Expense:** Delete an expense that was added by mistake or duplicated
 
-## Deliverables
-- A deployed app on platforms like AWS, Vercel, or Heroku
-- A GitHub repository with:
-  - A clear README explaining:
-    - The approach taken
-    - Brief documentation for:
-      - JWT implementation
-      - Expense management
-      - Spending insights endpoint
+
 
 ## Getting Started
 1. Clone the repository:
