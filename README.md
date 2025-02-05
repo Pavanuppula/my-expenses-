@@ -29,7 +29,7 @@ The Mini Expense Tracker application allows users to authenticate securely, mana
 - Display:
   - Bar chart or pie chart visualizing category-wise spending on the frontend
 
-### 4. Frontend Requirements (ReactJS)
+### 4. Frontend (ReactJS)
 - Pages:
   - **Login/Registration:** Handle JWT securely via HTTP-only cookies
   - **Dashboard:** List expenses (with pagination and filters) and display the spending insights chart
@@ -45,16 +45,6 @@ The Mini Expense Tracker application allows users to authenticate securely, mana
       - JWT implementation
       - Expense management
       - Spending insights endpoint
-
-## Evaluation Criteria
-- **Code Quality:** Clean, modular, and well-documented
-- **Problem-Solving:** Efficient insights logic and smooth integration of features
-- **Frontend Skills:** Clean UI/UX, responsiveness, and React best practices
-- **Backend Skills:** Secure JWT handling, efficient API design, and pagination logic
-- **Database Design:** Logical schema design and query optimization
-
-## Timeline
-- 2 days to complete the assignment
 
 ## Getting Started
 1. Clone the repository:
