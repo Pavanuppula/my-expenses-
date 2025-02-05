@@ -69,4 +69,4 @@ The Mini Expense Tracker application allows users to authenticate securely, mana
 ## Technologies Used
 - Frontend: ReactJS
 - Backend: Python/NodeJS
-- Database: MongoDB/PostgreSQL (with Mongoose for Mongo or Sequelize for Postgres)
+- Database: MongoDB
