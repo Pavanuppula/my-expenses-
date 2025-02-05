@@ -59,23 +59,32 @@ The Mini Expense Tracker application allows users to authenticate securely, mana
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/expense-tracker.git
+    git clone https://github.com/Pavanuppula/my-expenses-.git
     ```
-2. Install dependencies:
+2. Go to the project directory:
     ```bash
-    cd expense-tracker
+    cd my-expenses-
+    ```
+3. Go to the frontend directory and install dependencies:
+    ```bash
+    cd frontend
     npm install
     ```
-3. Set up environment variables for backend:
+4. Go to the backend directory and install dependencies:
     ```bash
-    cp .env.example .env
+    cd backend
+    npm install
     ```
-4. Run the development server:
+
+5. start the frontend server:
     ```bash
     npm start
     ```
-
+6. start the backend server:
+    ```bash
+    npm run dev
+    ```
 ## Technologies Used
-- Frontend: ReactJS, 
+- Frontend: ReactJS
 - Backend: Python/NodeJS
 - Database: MongoDB/PostgreSQL (with Mongoose for Mongo or Sequelize for Postgres)
